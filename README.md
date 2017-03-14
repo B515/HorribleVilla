@@ -1,2 +1,2 @@
-# HorrorVilla
-Horror Villa Party Game
+# HorribleVilla
+Horrible Villa Party Game
